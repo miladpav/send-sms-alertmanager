@@ -7,7 +7,7 @@ RUN apt-get update && \
     pip install Flask==2.0.1 && \
     pip install gevent==21.1.2 && \
     pip install kavenegar==1.1.2 && \
-    pip install PyYAML==5.4.1 &&
+    pip install PyYAML==5.4.1
     
 WORKDIR /root
 
