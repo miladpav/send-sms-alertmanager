@@ -105,3 +105,8 @@ services:
 networks:
   monitoring:
 ```
+
+###TODO:
+- [ ] Secure connection
+- [ ] Make log persistent
+- [ ] Time management for send sms
