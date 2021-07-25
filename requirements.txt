@@ -1,0 +1,4 @@
+Flask==2.0.1
+gevent==21.1.2
+kavenegar==1.1.2
+PyYAML==5.4.1
