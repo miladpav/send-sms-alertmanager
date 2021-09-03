@@ -9,8 +9,6 @@ build-image:
   stage: build
   image: docker:latest
   environment: Send_sms
-  tags:
-    - binarz_runner
   rules:
     - exists: 
         - Dockerfile
