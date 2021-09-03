@@ -107,6 +107,6 @@ networks:
 ```
 
 ###TODO:
-- [ ] Secure connection
-- [ ] Make log persistent
-- [ ] Time management for send sms
+- [ ] `Secure connection`
+- [ ] `Make log persistent`
+- [ ] `Time management for send sms`
