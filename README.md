@@ -10,7 +10,7 @@ lets build image :
 docker build -t send_sms_alertmanager:latest .
 ```
 
-This image serve a REST webhook to receive response from alertmanager
+This image serves a REST webhook to receive response from alertmanager
 
 Webhook is available on `http://{Listen_IP_Address}:{PORT}/send_sms`
 
