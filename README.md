@@ -106,7 +106,8 @@ networks:
   monitoring:
 ```
 
-###TODO:
+##### TODO
+
 - [ ] `Secure connection`
 - [ ] `Make log persistent`
 - [ ] `Time management for send sms`
