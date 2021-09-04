@@ -106,7 +106,7 @@ networks:
   monitoring:
 ```
 
-##### TODO
+### TODO
 
 - [ ] `Secure connection`
 - [ ] `Make log persistent`
