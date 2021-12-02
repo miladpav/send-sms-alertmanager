@@ -67,7 +67,7 @@ add these lines to `/etc/alertmanager/alertmanager.yml` in alertmanager.
 receivers:
 - name: 'web.hook'
   webhook_configs:
-  - url: http://{IP_Address}}:{PORT}/send_sms
+  - url: http://{IP_Address}:{PORT}/send_sms
     send_resolved: true
 ```
 
